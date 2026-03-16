@@ -8,7 +8,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=javiecheva99&color=00d4ff&style=flat-square&label=Visitas+al+perfil" alt="Profile views"/>
 
-[![CV](https://img.shields.io/badge/📄%20Ver%20mi%20Currículum-0A66C2?style=for-the-badge)](https://github.com/javiecheva99/javiecheva99/raw/main/CV_Javier_Echevarria.pdf)
 
 </div>
 
