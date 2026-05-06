@@ -89,7 +89,6 @@ estado:     Buscando oportunidad profesional en el sector IT 🔍
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Gmail-javiecheva99%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:javiecheva99@gmail.com)
-[![Phone](https://img.shields.io/badge/Teléfono-%2B34%20601%2048%2013%2059-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+34601481359)
 [![Location](https://img.shields.io/badge/Ubicación-El%20Astillero%2C%20Cantabria-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=El+Astillero,+Cantabria)
 
 </div>
