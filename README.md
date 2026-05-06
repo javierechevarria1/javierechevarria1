@@ -31,7 +31,7 @@ estado:     Buscando oportunidad profesional en el sector IT 🔍
 
 | Centro | Título | Estado |
 |---|---|---|
-| 🏫 **CC Decroly** | CFGS Administración de Sistemas Informáticos en Red (ASIR) | Cursando 2º curso |
+| 🏫 **CC Decroly** | CFGS Administración de Sistemas Informáticos en Red (ASIR) | Completado |
 | 🏫 **IES Valle de Camargo** | CFGM Sistemas Microinformáticos y Redes (SMR) | Completado |
 | 🏫 **IES Ntra. Sra. de los Remedios** | ESO | Completado |
 
