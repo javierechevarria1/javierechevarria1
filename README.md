@@ -19,7 +19,6 @@
 nombre:     Javier Echevarria Traspuesto
 ubicacion:  El Astillero, Cantabria 🇪🇸
 email:      javiecheva99@gmail.com
-telefono:   +34 601 48 13 59
 rol:        Técnico Superior ASIR (Administración de Sistemas Informáticos en Red)
 estado:     Buscando oportunidad profesional en el sector IT 🔍
 ```
