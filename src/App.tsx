@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { Server, GraduationCap, Code, Network, Award, Briefcase, ChevronDown, Terminal, Database, Shield } from 'lucide-react';
+import { Server, GraduationCap, Code, Network, Award, Briefcase, ChevronDown, Terminal, Database, Shield, Linkedin } from 'lucide-react';
 
 const GithubIcon = ({ size = 24, className = "" }) => (
   <svg xmlns="http://www.w3.org/2000/svg" width={size} height={size} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className={className}>
@@ -37,6 +37,22 @@ function App() {
     };
     window.addEventListener('scroll', handleScroll);
     return () => window.removeEventListener('scroll', handleScroll);
+  }, []);
+
+  // Intersection Observer for scroll reveal animations
+  useEffect(() => {
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach((entry) => {
+        if (entry.isIntersecting) {
+          entry.target.classList.add('is-visible');
+        }
+      });
+    }, { threshold: 0.1, rootMargin: "0px 0px -50px 0px" });
+
+    const elements = document.querySelectorAll('.reveal-on-scroll');
+    elements.forEach((el) => observer.observe(el));
+
+    return () => observer.disconnect();
   }, []);
 
   return (
@@ -88,6 +104,10 @@ function App() {
                 <GithubIcon size={16} />
                 GitHub
               </a>
+              <a href="https://www.linkedin.com/in/javier-echevarr%C3%ADa-traspuesto-ab3755258" target="_blank" rel="noreferrer" className="px-6 py-3 bg-[#0a66c2]/10 text-[#0a66c2] border border-[#0a66c2]/50 font-mono text-sm hover:bg-[#0a66c2] hover:text-white transition-all shadow-[0_0_15px_rgba(10,102,194,0.15)] hover:shadow-[0_0_25px_rgba(10,102,194,0.4)] flex items-center gap-2">
+                <Linkedin size={16} />
+                LinkedIn
+              </a>
             </div>
           </div>
         </div>
@@ -98,14 +118,14 @@ function App() {
       </section>
 
       {/* Sobre Mí - Terminal Style */}
-      <section id="sobre-mi" className="py-24 px-6">
+      <section id="sobre-mi" className="py-24 px-6 overflow-hidden">
         <div className="max-w-4xl mx-auto">
-          <div className="flex items-center gap-4 mb-12">
+          <div className="flex items-center gap-4 mb-12 reveal-on-scroll">
             <h2 className="text-3xl md:text-4xl font-bold text-white"><span className="text-cyan-400 font-mono text-2xl mr-2">02.</span>Sobre mí</h2>
             <div className="h-[1px] flex-1 bg-slate-800"></div>
           </div>
 
-          <div className="rounded-xl overflow-hidden bg-[#0d131f] border border-slate-800/80 shadow-2xl">
+          <div className="rounded-xl overflow-hidden bg-[#0d131f] border border-slate-800/80 shadow-2xl reveal-on-scroll delay-100">
             {/* Terminal Header */}
             <div className="flex items-center px-4 py-3 bg-[#0a0f18] border-b border-slate-800/80 gap-2">
               <div className="w-3 h-3 rounded-full bg-red-500/80"></div>
@@ -140,9 +160,9 @@ function App() {
       </section>
 
       {/* Trayectoria */}
-      <section id="trayectoria" className="py-24 px-6 relative">
+      <section id="trayectoria" className="py-24 px-6 relative overflow-hidden">
         <div className="max-w-4xl mx-auto">
-          <div className="flex items-center gap-4 mb-16">
+          <div className="flex items-center gap-4 mb-16 reveal-on-scroll">
             <h2 className="text-3xl md:text-4xl font-bold text-white"><span className="text-cyan-400 font-mono text-2xl mr-2">03.</span>Mi Recorrido</h2>
             <div className="h-[1px] flex-1 bg-slate-800"></div>
           </div>
@@ -150,7 +170,7 @@ function App() {
           <div className="relative border-l-2 border-slate-800/80 ml-4 md:ml-6 space-y-16">
             
             {/* DAW */}
-            <div className="pl-8 md:pl-12 relative group">
+            <div className="pl-8 md:pl-12 relative group reveal-on-scroll">
               <div className="absolute w-4 h-4 bg-[#0a0f18] border-2 border-cyan-500 rounded-full -left-[9px] top-1.5 group-hover:bg-cyan-500 group-hover:shadow-[0_0_15px_#22d3ee] transition-all duration-300"></div>
               <div className="bg-slate-900/40 border border-slate-800/60 rounded-lg p-6 hover:border-cyan-500/30 transition-colors">
                 <span className="text-xs font-mono text-cyan-400 mb-2 block">2026 — 2028 (Futuro)</span>
@@ -161,7 +181,7 @@ function App() {
             </div>
 
             {/* ASIR */}
-            <div className="pl-8 md:pl-12 relative group">
+            <div className="pl-8 md:pl-12 relative group reveal-on-scroll delay-100">
               <div className="absolute w-4 h-4 bg-[#0a0f18] border-2 border-cyan-500 rounded-full -left-[9px] top-1.5 group-hover:bg-cyan-500 group-hover:shadow-[0_0_15px_#22d3ee] transition-all duration-300"></div>
               <div className="bg-slate-900/40 border border-slate-800/60 rounded-lg p-6 hover:border-cyan-500/30 transition-colors">
                 <span className="text-xs font-mono text-cyan-400 mb-2 block">2024 — 2026</span>
@@ -181,7 +201,7 @@ function App() {
             </div>
 
             {/* SMR */}
-            <div className="pl-8 md:pl-12 relative group">
+            <div className="pl-8 md:pl-12 relative group reveal-on-scroll delay-200">
               <div className="absolute w-4 h-4 bg-[#0a0f18] border-2 border-cyan-500 rounded-full -left-[9px] top-1.5 group-hover:bg-cyan-500 group-hover:shadow-[0_0_15px_#22d3ee] transition-all duration-300"></div>
               <div className="bg-slate-900/40 border border-slate-800/60 rounded-lg p-6 hover:border-cyan-500/30 transition-colors">
                 <span className="text-xs font-mono text-cyan-400 mb-2 block">2022 — 2024</span>
@@ -198,19 +218,19 @@ function App() {
         </div>
       </section>
 
-      {/* Habilidades (Inspired by ACS Designs progress bars) */}
-      <section id="habilidades" className="py-24 px-6 relative">
+      {/* Habilidades */}
+      <section id="habilidades" className="py-24 px-6 relative overflow-hidden">
         {/* Ambient light */}
         <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-full max-w-2xl h-64 bg-cyan-900/10 blur-[120px] -z-10 rounded-full"></div>
         
         <div className="max-w-4xl mx-auto">
-          <div className="flex items-center gap-4 mb-16">
+          <div className="flex items-center gap-4 mb-16 reveal-on-scroll">
             <h2 className="text-3xl md:text-4xl font-bold text-white"><span className="text-cyan-400 font-mono text-2xl mr-2">04.</span>Habilidades Técnicas</h2>
             <div className="h-[1px] flex-1 bg-slate-800"></div>
           </div>
 
           <div className="grid md:grid-cols-2 gap-12">
-            <div>
+            <div className="reveal-on-scroll">
               <h3 className="text-xl font-bold text-white mb-6 flex items-center gap-2">
                 <Server className="text-cyan-400" size={20}/> Infraestructura & Redes
               </h3>
@@ -220,7 +240,7 @@ function App() {
               <SkillBar name="Seguridad en Sistemas" percentage={70} icon={Shield} />
             </div>
             
-            <div>
+            <div className="reveal-on-scroll delay-100">
               <h3 className="text-xl font-bold text-white mb-6 flex items-center gap-2">
                 <Code className="text-blue-400" size={20}/> Desarrollo & Software
               </h3>
@@ -232,7 +252,7 @@ function App() {
           </div>
 
           {/* Tag Cloud */}
-          <div className="mt-16 pt-10 border-t border-slate-800/50">
+          <div className="mt-16 pt-10 border-t border-slate-800/50 reveal-on-scroll delay-200">
             <p className="font-mono text-sm text-slate-500 mb-6">&gt; Otras herramientas y tecnologías:</p>
             <div className="flex flex-wrap gap-3">
               {["Git", "GitHub", "Bash/Shell", "VS Code", "Bases de Datos", "Hardware"].map((skill, idx) => (
@@ -249,12 +269,15 @@ function App() {
       <footer className="bg-[#0a0f18] py-12 px-6 border-t border-slate-800">
         <div className="max-w-4xl mx-auto flex flex-col md:flex-row justify-between items-center gap-6">
           <div className="font-black text-2xl tracking-tighter text-white">JE<span className="text-cyan-400">.</span></div>
-          <div className="text-slate-500 text-sm font-mono">
+          <div className="text-slate-500 text-sm font-mono text-center md:text-left">
             © {new Date().getFullYear()} Diseñado y desarrollado para Javier Echevarria.
           </div>
           <div className="flex gap-6">
             <a href="https://github.com/javierechevarria1" target="_blank" rel="noreferrer" className="text-slate-400 hover:text-cyan-400 transition-colors">
               <GithubIcon size={20} />
+            </a>
+            <a href="https://www.linkedin.com/in/javier-echevarr%C3%ADa-traspuesto-ab3755258" target="_blank" rel="noreferrer" className="text-slate-400 hover:text-[#0a66c2] transition-colors">
+              <Linkedin size={20} />
             </a>
           </div>
         </div>
