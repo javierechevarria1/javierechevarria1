@@ -1,0 +1,24 @@
+/* Custom styles if needed, but mostly using Tailwind */
+html {
+    scroll-padding-top: 4rem; /* Offset for sticky header */
+}
+
+/* Add a slight animation to the hero section */
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(20px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+#inicio h1, #inicio p, #inicio div {
+    animation: fadeIn 0.8s ease-out forwards;
+}
+
+#inicio p {
+    animation-delay: 0.2s;
+    opacity: 0;
+}
+
+#inicio div {
+    animation-delay: 0.4s;
+    opacity: 0;
+}
