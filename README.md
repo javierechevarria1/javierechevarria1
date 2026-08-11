@@ -323,26 +323,6 @@ Mi objetivo es incorporarme a un equipo donde pueda **aplicar mis conocimientos 
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=javiecheva99&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javiecheva99&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=javiecheva99&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
----
-
 <div align="center">
 
 ### ⭐ Gracias por visitar mi perfil
