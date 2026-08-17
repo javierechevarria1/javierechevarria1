@@ -2,7 +2,11 @@
 
 # Javier Echevarria Traspuesto
 
-**Técnico Superior ASIR · Desarrollo Web · Ciberseguridad · DevOps**
+**`Técnico Superior ASIR · Desarrollo Web · Ciberseguridad · DevOps`**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Administraci%C3%B3n+de+Sistemas+en+Red;Linux+%7C+Windows+%7C+Redes+%7C+Virtualizaci%C3%B3n;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Ciberseguridad+%7C+Cloud+%7C+DevOps;Ganador+del+Hack+The+Age+%40+Netbees+%F0%9F%8F%86)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=javiecheva99&color=00d4ff&style=flat-square&label=Visitas+al+perfil" alt="Profile views"/>
 
 📍 El Astillero, Cantabria · 📧 javiecheva99@gmail.com
 
