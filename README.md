@@ -58,7 +58,7 @@ Técnico Superior en Administración de Sistemas Informáticos en Red con experi
 - 🏆 Ganador del Hack The Age con el proyecto NEXA SmartBand Senior
 
 ### IES José María Pereda — Administración de Sistemas
-*400 h de prácticas*
+*400 h de prácticas profesionales*
 
 - Administración y mantenimiento de sistemas Linux y Windows
 - Configuración y gestión de redes
