@@ -5,6 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=DevOps+%7C+Cloud+%7C+Automatizaci%C3%B3n;Desarrollador+Web+Full+Stack;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Administraci%C3%B3n+de+Sistemas+en+Red;Linux+%7C+Windows+%7C+Redes+%7C+Virtualizaci%C3%B3n;Ciberseguridad+%7C+Cloud;Ganador+del+Hack+The+Age+%40+Netbees+%F0%9F%8F%86)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-1D4ED8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://javierechevarria1.github.io/PaginaPersonal/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1D4ED8?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0ZGRkZGRiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B)](https://www.linkedin.com/in/javier-echevarr%C3%ADa-traspuesto-ab3755258)
 [![Gmail](https://img.shields.io/badge/Gmail-1D4ED8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:javiecheva99@gmail.com)
 [![Ubicación](https://img.shields.io/badge/Cantabria,_Espa%C3%B1a-1D4ED8?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/El+Astillero,+Cantabria)
 
@@ -108,6 +109,8 @@ Entornos de laboratorio para administración de sistemas, redes y virtualizació
 Plataforma web full stack desarrollada durante mi experiencia en NetBees. Autenticación y roles, chat en tiempo real, pagos con Stripe, integración con Google Maps y APIs REST sobre PostgreSQL.
 
 **Stack:** `React` · `Next.js` · `Node.js` · `TypeScript` · `PostgreSQL` · `Tailwind CSS` · `Stripe`
+
+[🔗 Ver proyecto](https://vive-plus.vercel.app/)
 
 </td>
 </tr>
