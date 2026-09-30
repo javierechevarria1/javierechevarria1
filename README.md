@@ -4,12 +4,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=DevOps+%7C+Cloud+%7C+Automatizaci%C3%B3n;Desarrollador+Web+Full+Stack;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Administraci%C3%B3n+de+Sistemas+en+Red;Linux+%7C+Windows+%7C+Redes+%7C+Virtualizaci%C3%B3n;Ciberseguridad+%7C+Cloud;Ganador+del+Hack+The+Age+%40+Netbees+%F0%9F%8F%86)](https://git.io/typing-svg)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=githubpages&logoColor=white)](https://javierechevarria1.github.io/PaginaPersonal/)
-[![Email](https://img.shields.io/badge/Email-0B1120?style=for-the-badge&logo=gmail&logoColor=38BDF8)](mailto:javiecheva99@gmail.com)
-![Ubicación](https://img.shields.io/badge/El_Astillero,_Cantabria-0B1120?style=for-the-badge&logo=googlemaps&logoColor=38BDF8)
-![Disponibilidad](https://img.shields.io/badge/Incorporaci%C3%B3n-Inmediata-2EA043?style=for-the-badge)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1D4ED8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://javierechevarria1.github.io/PaginaPersonal/)
+[![Gmail](https://img.shields.io/badge/Gmail-1D4ED8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:javiecheva99@gmail.com)
+[![Ubicación](https://img.shields.io/badge/Cantabria,_Espa%C3%B1a-1D4ED8?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/El+Astillero,+Cantabria)
 
-<img src="https://komarev.com/ghpvc/?username=javiecheva99&color=2563eb&style=flat-square&label=Visitas+al+perfil" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=javiecheva99&color=1d4ed8&style=flat-square&label=Visitas+al+perfil" alt="Visitas al perfil"/>
 
 </div>
 
@@ -21,39 +20,53 @@ Técnico Superior en Administración de Sistemas Informáticos en Red (ASIR) y e
 
 Me muevo con soltura en cloud, automatización y ciberseguridad, y sigo ampliando formación para cubrir todo el ecosistema IT.
 
-> 🟢 **Abierto a nuevas oportunidades profesionales · Incorporación inmediata**
+> [!NOTE]
+> Abierto a nuevas oportunidades profesionales.
 
 ---
 
 ## 🚀 Tecnologías
 
 #### Sistemas y Cloud
-<img src="https://skillicons.dev/icons?i=linux,windows,aws&theme=dark" alt="Sistemas y Cloud"/>
+<img src="https://skillicons.dev/icons?i=linux" width="48" alt="Linux"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=windows" width="48" alt="Windows"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=aws" width="48" alt="AWS"/>
 
-**Redes y virtualización:** `Cisco` · `TCP/IP` · `VLAN` · `VirtualBox` · `VMware`
+#### Redes y virtualización
+<img src="assets/icons/cisco.svg" width="48" alt="Cisco"/>&nbsp;
+<img src="assets/icons/tcpip.svg" width="48" alt="TCP/IP"/>&nbsp;
+<img src="assets/icons/vlan.svg" width="48" alt="VLAN"/>&nbsp;
+<img src="assets/icons/virtualbox.svg" width="48" alt="VirtualBox"/>&nbsp;
+<img src="assets/icons/vmware.svg" width="48" alt="VMware"/>
 
 #### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" alt="Frontend"/>
+<img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=ts" width="48" alt="TypeScript"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=react" width="48" alt="React"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=nextjs" width="48" alt="Next.js"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" alt="Tailwind CSS"/>
 
-#### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,python&theme=dark" alt="Backend"/>
-
-**APIs y pagos:** `REST` · `Stripe`
+#### Backend y APIs
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" alt="Node.js"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=py" width="48" alt="Python"/>&nbsp;
+<img src="assets/icons/rest.svg" width="48" alt="REST"/>&nbsp;
+<img src="assets/icons/stripe.svg" width="48" alt="Stripe"/>
 
 #### Bases de datos
-<img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="Bases de datos"/>
+<img src="https://skillicons.dev/icons?i=postgres" width="48" alt="PostgreSQL"/>
 
 #### Herramientas y Servicios
-<img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Herramientas y Servicios"/>
-
-**Áreas de trabajo:** Cloud & DevOps · Desarrollo web full stack · APIs REST · Administración de sistemas · Redes TCP/IP y VLAN · Virtualización · Ciberseguridad
+<img src="https://skillicons.dev/icons?i=git" width="48" alt="Git"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/>
 
 ---
 
 ## 💼 Experiencia
 
 ### NetBees Business Center — Desarrollo Web Full Stack
-![Prácticas](https://img.shields.io/badge/Pr%C3%A1cticas-500_h-2563EB?style=flat-square)
+![Prácticas](https://img.shields.io/badge/Pr%C3%A1cticas-500_h-1D4ED8?style=flat-square)
 
 - Desarrollo de proyectos web con arquitecturas frontend/backend
 - Trabajo con bases de datos, APIs, autenticación, pagos y servicios cloud
@@ -61,7 +74,7 @@ Me muevo con soltura en cloud, automatización y ciberseguridad, y sigo ampliand
 - 🏆 Ganador del **Hack The Age** con el proyecto NEXA SmartBand Senior
 
 ### IES José María Pereda — Administración de Sistemas
-![Prácticas](https://img.shields.io/badge/Pr%C3%A1cticas-400_h-2563EB?style=flat-square)
+![Prácticas](https://img.shields.io/badge/Pr%C3%A1cticas-400_h-1D4ED8?style=flat-square)
 
 - Administración y mantenimiento de sistemas Linux y Windows
 - Configuración y gestión de redes
