@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:1D4ED8,100:38BDF8&height=200&section=header&text=Javier%20Echevarria%20Traspuesto&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=DevOps%20%C2%B7%20Desarrollo%20Web%20Full%20Stack%20%C2%B7%20Cloud%20%C2%B7%20Ciberseguridad&descSize=16&descAlignY=60" alt="Javier Echevarria Traspuesto" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:1D4ED8,100:38BDF8&height=200&section=header&text=Javier%20Echevarria%20Traspuesto&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Cloud%20Security%20Engineer%20%7C%20DevSecOps%20%26%20Software%20Engineer%20%7C%20AI%20Security%20%26%20Ethical%20Hacking%20Specialist&descSize=14&descAlignY=60" alt="Javier Echevarria Traspuesto" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=DevOps+%7C+Cloud+%7C+Automatizaci%C3%B3n;Desarrollador+Web+Full+Stack;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Administraci%C3%B3n+de+Sistemas+en+Red;Linux+%7C+Windows+%7C+Redes+%7C+Virtualizaci%C3%B3n;Ciberseguridad+%7C+Cloud;Ganador+del+Hack+The+Age+%40+Netbees+%F0%9F%8F%86)](https://git.io/typing-svg)
 
@@ -9,7 +9,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-1D4ED8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:javiecheva99@gmail.com)
 [![Ubicación](https://img.shields.io/badge/Cantabria,_Espa%C3%B1a-1D4ED8?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/El+Astillero,+Cantabria)
 
-<img src="https://komarev.com/ghpvc/?username=javiecheva99&color=1d4ed8&style=flat-square&label=Visitas+al+perfil" alt="Visitas al perfil"/>
+<img src="https://komarev.com/ghpvc/?username=javiecheva99&color=2563eb&style=flat-square&label=Visitas+al+perfil" alt="Profile views"/>
 
 </div>
 
