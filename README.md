@@ -28,38 +28,38 @@ Me muevo con soltura en cloud, automatización y ciberseguridad, y sigo ampliand
 ## 🚀 Tecnologías
 
 #### Sistemas y Cloud
-<img src="https://skillicons.dev/icons?i=linux" width="48" alt="Linux"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=windows" width="48" alt="Windows"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=aws" width="48" alt="AWS"/>
+![Linux](https://img.shields.io/badge/Linux-161B22?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Windows](https://img.shields.io/badge/Windows-161B22?style=for-the-badge&logo=windows&logoColor=0078D6)
+![AWS](https://img.shields.io/badge/AWS-161B22?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
 
 #### Redes y virtualización
-<img src="assets/icons/cisco.svg" width="48" alt="Cisco"/>&nbsp;
-<img src="assets/icons/tcpip.svg" width="48" alt="TCP/IP"/>&nbsp;
-<img src="assets/icons/vlan.svg" width="48" alt="VLAN"/>&nbsp;
-<img src="assets/icons/virtualbox.svg" width="48" alt="VirtualBox"/>&nbsp;
-<img src="assets/icons/vmware.svg" width="48" alt="VMware"/>
+![Cisco](https://img.shields.io/badge/Cisco-161B22?style=for-the-badge&logo=cisco&logoColor=1BA0D7)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-161B22?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMzOEJERjgiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cmVjdCB4PSIxNiIgeT0iMTYiIHdpZHRoPSI2IiBoZWlnaHQ9IjYiIHJ4PSIxIiAvPiA8cmVjdCB4PSIyIiB5PSIxNiIgd2lkdGg9IjYiIGhlaWdodD0iNiIgcng9IjEiIC8%2BIDxyZWN0IHg9IjkiIHk9IjIiIHdpZHRoPSI2IiBoZWlnaHQ9IjYiIHJ4PSIxIiAvPiA8cGF0aCBkPSJNNSAxNnYtM2ExIDEgMCAwIDEgMS0xaDEyYTEgMSAwIDAgMSAxIDF2MyIgLz4gPHBhdGggZD0iTTEyIDEyVjgiIC8%2BPC9zdmc%2B)
+![VLAN](https://img.shields.io/badge/VLAN-161B22?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMzOEJERjgiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMTAgOHYxIiAvPiA8cGF0aCBkPSJNMTQgOHYxIiAvPiA8cGF0aCBkPSJNMTggOHYxIiAvPiA8cGF0aCBkPSJNMTkgMTdhMiAyIDAgMDAtMS43NjUgMS4wNTlsLS40Ny44ODJBMiAyIDAgMDExNSAyMEg5YTIgMiAwIDAxLTEuNzY1LTEuMDU5bC0uNDctLjg4MkEyIDIgMCAwMDUgMTdINGEyIDIgMCAwMS0yLTJWNmEyIDIgMCAwMTItMmgxNmEyIDIgMCAwMTIgMnY5YTIgMiAwIDAxLTIgMnoiIC8%2BIDxwYXRoIGQ9Ik02IDh2MSIgLz48L3N2Zz4%3D)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-161B22?style=for-the-badge&logo=virtualbox&logoColor=4C8DE0)
+![VMware](https://img.shields.io/badge/VMware-161B22?style=for-the-badge&logo=vmware&logoColor=B4BEC9)
 
 #### Frontend
-<img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=ts" width="48" alt="TypeScript"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=react" width="48" alt="React"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=nextjs" width="48" alt="Next.js"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=tailwind" width="48" alt="Tailwind CSS"/>
+![HTML5](https://img.shields.io/badge/HTML5-161B22?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-161B22?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-161B22?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-161B22?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-161B22?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-161B22?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
 
 #### Backend y APIs
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" alt="Node.js"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=py" width="48" alt="Python"/>&nbsp;
-<img src="assets/icons/rest.svg" width="48" alt="REST"/>&nbsp;
-<img src="assets/icons/stripe.svg" width="48" alt="Stripe"/>
+![Node.js](https://img.shields.io/badge/Node.js-161B22?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
+![Python](https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=4B8BBE)
+![REST](https://img.shields.io/badge/REST-161B22?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMzOEJERjgiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNOCAzIDQgN2w0IDQiIC8%2BIDxwYXRoIGQ9Ik00IDdoMTYiIC8%2BIDxwYXRoIGQ9Im0xNiAyMSA0LTQtNC00IiAvPiA8cGF0aCBkPSJNMjAgMTdINCIgLz48L3N2Zz4%3D)
+![Stripe](https://img.shields.io/badge/Stripe-161B22?style=for-the-badge&logo=stripe&logoColor=635BFF)
 
 #### Bases de datos
-<img src="https://skillicons.dev/icons?i=postgres" width="48" alt="PostgreSQL"/>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161B22?style=for-the-badge&logo=postgresql&logoColor=5B9BD5)
 
 #### Herramientas y Servicios
-<img src="https://skillicons.dev/icons?i=git" width="48" alt="Git"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/>
+![Git](https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF)
 
 ---
 
