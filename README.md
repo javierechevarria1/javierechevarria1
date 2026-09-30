@@ -51,15 +51,20 @@ Me muevo con soltura en cloud, automatización y ciberseguridad, y sigo ampliand
 #### Backend y APIs
 ![Node.js](https://img.shields.io/badge/Node.js-161B22?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
 ![Python](https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=4B8BBE)
+![Java](https://img.shields.io/badge/Java-161B22?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZD0iTTkuMyAyLjJjMS43IDEuNi0xLjQgMi43IDAgNC4zTTEzLjYgMS40YzIuMSAyLjMtMS43IDMuNyAwIDYuMSIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRTc2RjAwIiBzdHJva2Utd2lkdGg9IjEuMyIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8%2BPHBhdGggZD0iTTUgMTAuM2gxMC42djQuNmE0IDQgMCAwIDEtNCA0SDlhNCA0IDAgMCAxLTQtNHoiIGZpbGw9IiM1REEwRDAiLz48cGF0aCBkPSJNMTUuNiAxMS40aDEuMmEyLjMgMi4zIDAgMCAxIDAgNC42aC0xLjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzVEQTBEMCIgc3Ryb2tlLXdpZHRoPSIxLjMiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPjxwYXRoIGQ9Ik0zLjYgMjEuNmgxMy40IiBzdHJva2U9IiM1REEwRDAiIHN0cm9rZS13aWR0aD0iMS40IiBzdHJva2UtbGluZWNhcD0icm91bmQiLz48L3N2Zz4%3D)
 ![REST](https://img.shields.io/badge/REST-161B22?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMzOEJERjgiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNOCAzIDQgN2w0IDQiIC8%2BIDxwYXRoIGQ9Ik00IDdoMTYiIC8%2BIDxwYXRoIGQ9Im0xNiAyMSA0LTQtNC00IiAvPiA8cGF0aCBkPSJNMjAgMTdINCIgLz48L3N2Zz4%3D)
 ![Stripe](https://img.shields.io/badge/Stripe-161B22?style=for-the-badge&logo=stripe&logoColor=635BFF)
 
 #### Bases de datos
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161B22?style=for-the-badge&logo=postgresql&logoColor=5B9BD5)
+![MySQL](https://img.shields.io/badge/MySQL-161B22?style=for-the-badge&logo=mysql&logoColor=4DA3C7)
 
 #### Herramientas y Servicios
 ![Git](https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![Sourcetree](https://img.shields.io/badge/Sourcetree-161B22?style=for-the-badge&logo=sourcetree&logoColor=2684FF)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-161B22?style=for-the-badge&logo=intellijidea&logoColor=FFFFFF)
+![DBeaver](https://img.shields.io/badge/DBeaver-161B22?style=for-the-badge&logo=dbeaver&logoColor=D2B48C)
 
 ---
 
@@ -144,6 +149,7 @@ Solución tecnológica para mejorar la autonomía, comunicación y bienestar de 
 <div align="center">
 
 Si algún proyecto te resulta útil, no dudes en dejar una ⭐
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:1D4ED8,100:38BDF8&height=100&section=footer" alt="" width="100%"/>
 
 </div>
