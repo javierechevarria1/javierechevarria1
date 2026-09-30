@@ -1,19 +1,15 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="Javier Echevarria Traspuesto · Cloud Security · DevSecOps · Software Engineer · Ethical Hacking" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:1D4ED8,100:38BDF8&height=200&section=header&text=Javier%20Echevarria%20Traspuesto&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=DevOps%20%C2%B7%20Desarrollo%20Web%20Full%20Stack%20%C2%B7%20Cloud%20%C2%B7%20Ciberseguridad&descSize=16&descAlignY=60" alt="Javier Echevarria Traspuesto" width="100%"/>
 
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=DevOps+%7C+Cloud+%7C+Automatizaci%C3%B3n;Desarrollador+Web+Full+Stack;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Administraci%C3%B3n+de+Sistemas+en+Red;Linux+%7C+Windows+%7C+Redes+%7C+Virtualizaci%C3%B3n;Ciberseguridad+%7C+Cloud;Ganador+del+Hack+The+Age+%40+Netbees+%F0%9F%8F%86)](https://git.io/typing-svg)
 
-**`DevOps`** · **`Desarrollo Web Full Stack`** · **`Administración de Sistemas`** · **`Cloud`** · **`Ciberseguridad`**
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=E11D2E&center=true&vCenter=true&width=700&lines=DevOps+%7C+Cloud+%7C+Automatizaci%C3%B3n;Desarrollador+Web+Full+Stack;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Administraci%C3%B3n+de+Sistemas+en+Red;Linux+%7C+Windows+%7C+Redes+%7C+Virtualizaci%C3%B3n;Ciberseguridad+%7C+Cloud;Ganador+del+Hack+The+Age+%40+Netbees+%F0%9F%8F%86)](https://git.io/typing-svg)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-E11D2E?style=for-the-badge&logo=githubpages&logoColor=white)](https://javierechevarria1.github.io/PaginaPersonal/)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=E11D2E)](mailto:javiecheva99@gmail.com)
-![Ubicación](https://img.shields.io/badge/El_Astillero,_Cantabria-0D1117?style=for-the-badge&logo=googlemaps&logoColor=E11D2E)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=githubpages&logoColor=white)](https://javierechevarria1.github.io/PaginaPersonal/)
+[![Email](https://img.shields.io/badge/Email-0B1120?style=for-the-badge&logo=gmail&logoColor=38BDF8)](mailto:javiecheva99@gmail.com)
+![Ubicación](https://img.shields.io/badge/El_Astillero,_Cantabria-0B1120?style=for-the-badge&logo=googlemaps&logoColor=38BDF8)
 ![Disponibilidad](https://img.shields.io/badge/Incorporaci%C3%B3n-Inmediata-2EA043?style=for-the-badge)
 
-<img src="https://komarev.com/ghpvc/?username=javiecheva99&color=e11d2e&style=flat-square&label=Visitas+al+perfil" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=javiecheva99&color=2563eb&style=flat-square&label=Visitas+al+perfil" alt="Profile views"/>
 
 </div>
 
@@ -29,45 +25,26 @@ Me muevo con soltura en cloud, automatización y ciberseguridad, y sigo ampliand
 
 ---
 
-## 🛠️ Stack tecnológico
+## 🚀 Tecnologías
 
-<table>
-<tr>
-<td width="220"><b>🐧 Sistemas, redes e infraestructura</b></td>
-<td>
+#### Sistemas y Cloud
+<img src="https://skillicons.dev/icons?i=linux,windows,aws&theme=dark" alt="Sistemas y Cloud"/>
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+**Redes y virtualización:** `Cisco` · `TCP/IP` · `VLAN` · `VirtualBox` · `VMware`
 
-</td>
-</tr>
-<tr>
-<td><b>☁️ Cloud y control de versiones</b></td>
-<td>
+#### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" alt="Frontend"/>
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+#### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,python&theme=dark" alt="Backend"/>
 
-</td>
-</tr>
-<tr>
-<td><b>💻 Desarrollo y datos</b></td>
-<td>
+**APIs y pagos:** `REST` · `Stripe`
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+#### Bases de datos
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="Bases de datos"/>
 
-</td>
-</tr>
-</table>
+#### Herramientas y Servicios
+<img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Herramientas y Servicios"/>
 
 **Áreas de trabajo:** Cloud & DevOps · Desarrollo web full stack · APIs REST · Administración de sistemas · Redes TCP/IP y VLAN · Virtualización · Ciberseguridad
 
@@ -76,7 +53,7 @@ Me muevo con soltura en cloud, automatización y ciberseguridad, y sigo ampliand
 ## 💼 Experiencia
 
 ### NetBees Business Center — Desarrollo Web Full Stack
-![Prácticas](https://img.shields.io/badge/Pr%C3%A1cticas-500_h-E11D2E?style=flat-square)
+![Prácticas](https://img.shields.io/badge/Pr%C3%A1cticas-500_h-2563EB?style=flat-square)
 
 - Desarrollo de proyectos web con arquitecturas frontend/backend
 - Trabajo con bases de datos, APIs, autenticación, pagos y servicios cloud
@@ -84,7 +61,7 @@ Me muevo con soltura en cloud, automatización y ciberseguridad, y sigo ampliand
 - 🏆 Ganador del **Hack The Age** con el proyecto NEXA SmartBand Senior
 
 ### IES José María Pereda — Administración de Sistemas
-![Prácticas](https://img.shields.io/badge/Pr%C3%A1cticas-400_h-E11D2E?style=flat-square)
+![Prácticas](https://img.shields.io/badge/Pr%C3%A1cticas-400_h-2563EB?style=flat-square)
 
 - Administración y mantenimiento de sistemas Linux y Windows
 - Configuración y gestión de redes
@@ -93,7 +70,7 @@ Me muevo con soltura en cloud, automatización y ciberseguridad, y sigo ampliand
 
 ---
 
-## 🚀 Proyectos
+## 📂 Proyectos
 
 <table>
 <tr>
@@ -151,10 +128,10 @@ Solución tecnológica para mejorar la autonomía, comunicación y bienestar de 
 - 🌍 **Idiomas:** 🇪🇸 Castellano (nativo) · 🇬🇧 Inglés (básico/técnico)
 - 🚗 **Disponibilidad:** vehículo propio, flexibilidad horaria y geográfica
 
----
-
 <div align="center">
 
 Si algún proyecto te resulta útil, no dudes en dejar una ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:1D4ED8,100:38BDF8&height=100&section=footer" alt="" width="100%"/>
 
 </div>
