@@ -2,9 +2,9 @@
 
 # Javier Echevarria Traspuesto
 
-**`Técnico Superior ASIR · Desarrollo Web · Ciberseguridad · DevOps`**
+**`DevOps · Desarrollo Web Full Stack · Administración de Sistemas · Cloud · Ciberseguridad`**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Administraci%C3%B3n+de+Sistemas+en+Red;Linux+%7C+Windows+%7C+Redes+%7C+Virtualizaci%C3%B3n;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Ciberseguridad+%7C+Cloud+%7C+DevOps;Ganador+del+Hack+The+Age+%40+Netbees+%F0%9F%8F%86)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=DevOps+%7C+Cloud+%7C+Automatizaci%C3%B3n;Desarrollador+Web+Full+Stack;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Administraci%C3%B3n+de+Sistemas+en+Red;Linux+%7C+Windows+%7C+Redes+%7C+Virtualizaci%C3%B3n;Ciberseguridad+%7C+Cloud;Ganador+del+Hack+The+Age+%40+Netbees+%F0%9F%8F%86)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=javiecheva99&color=00d4ff&style=flat-square&label=Visitas+al+perfil" alt="Profile views"/>
 
@@ -18,32 +18,40 @@
 
 ## Sobre mí
 
-Técnico Superior en Administración de Sistemas Informáticos en Red con experiencia práctica en desarrollo web full stack y administración de sistemas. Interés especial en ciberseguridad, cloud y automatización. Actualmente ampliando formación para tener una visión integral del ecosistema IT.
+Técnico Superior en Administración de Sistemas Informáticos en Red (ASIR) y en Desarrollo de Aplicaciones Web (DAW), con perfil DevOps y desarrollador web full stack. Combino una base sólida en administración de sistemas Linux/Windows, redes y virtualización con experiencia real construyendo aplicaciones web con React, Next.js, Node.js y TypeScript. Esa mezcla me permite entender el ciclo completo de una aplicación, desde el código hasta la infraestructura donde corre.
+
+Me muevo con soltura en cloud, automatización y ciberseguridad, y sigo ampliando formación para cubrir todo el ecosistema IT.
 
 **Estado:** Abierto a nuevas oportunidades profesionales · Incorporación inmediata
 
 ---
 
-## Tecnologías
+## Stack tecnológico
+
+**Sistemas, redes e infraestructura**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-&nbsp;
+
+**Cloud y control de versiones**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+**Desarrollo y datos**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 
-**Áreas:** Administración de sistemas · Redes TCP/IP y VLAN · Desarrollo full stack · APIs REST · Ciberseguridad · Cloud & DevOps
+**Áreas de trabajo:** Cloud & DevOps · Desarrollo web full stack · APIs REST · Administración de sistemas · Redes TCP/IP y VLAN · Virtualización · Ciberseguridad
 
 ---
 
@@ -69,22 +77,22 @@ Técnico Superior en Administración de Sistemas Informáticos en Red con experi
 
 ## Proyectos
 
-### 🧓 NEXA SmartBand Senior
-Solución tecnológica para mejorar la autonomía, comunicación y bienestar de personas mayores. Interacción por voz, transcripción de audio, geolocalización y sistema de comunicación con familiares.
+### 🖥️ Laboratorios de Sistemas & Redes
+Entornos de laboratorio para administración de sistemas, redes y virtualización: configuración de VLAN, routing & switching y administración de entornos Linux/Windows.
 
-**Stack:** React · Node.js · TypeScript · PostgreSQL · APIs · IA
-🏆 Ganador del Hack The Age · NetBees
-🔗 [Ver proyecto](https://javierechevarria1.github.io/PaginaNexa/)
+**Tecnologías:** Linux · Windows · VirtualBox · VMware · TCP/IP · VLAN
 
 ### 🌐 Plataforma Vive+
 Plataforma web full stack desarrollada durante mi experiencia en NetBees. Autenticación y roles, chat en tiempo real, pagos con Stripe, integración con Google Maps y APIs REST sobre PostgreSQL.
 
 **Stack:** React · Next.js · Node.js · TypeScript · PostgreSQL · Tailwind CSS · Stripe
 
-### 🖥️ Laboratorios de Sistemas & Redes
-Entornos de laboratorio para administración de sistemas, redes y virtualización: configuración de VLAN, routing & switching, y administración de entornos Linux/Windows.
+### 🧓 NEXA SmartBand Senior
+Solución tecnológica para mejorar la autonomía, comunicación y bienestar de personas mayores. Interacción por voz, transcripción de audio, geolocalización y sistema de comunicación con familiares.
 
-**Tecnologías:** Linux · Windows · VirtualBox · VMware · TCP/IP · VLAN
+**Stack:** React · Node.js · TypeScript · PostgreSQL · APIs · IA
+🏆 Ganador del Hack The Age · NetBees
+🔗 [Ver proyecto](https://javierechevarria1.github.io/PaginaNexa/)
 
 ---
 
@@ -101,15 +109,16 @@ Entornos de laboratorio para administración de sistemas, redes y virtualizació
 
 ---
 
-## Extra
+## Información adicional
 
-- **Objetivo:** Administración de Sistemas · Desarrollo Full Stack · Ciberseguridad · Cloud · DevOps
-- **Idiomas:** 🇪🇸 Castellano (Nativo) · 🇬🇧 Inglés (Básico/Técnico)
-- Vehículo propio · Disponibilidad horaria y geográfica
+- **Objetivo profesional:** DevOps · Desarrollo Web Full Stack · Cloud · Administración de Sistemas · Ciberseguridad
+- **Idiomas:** 🇪🇸 Castellano (nativo) · 🇬🇧 Inglés (básico/técnico)
+- **Disponibilidad:** vehículo propio, flexibilidad horaria y geográfica
 
 ---
 
 <div align="center">
+
 
 Si algún proyecto te resulta útil, no dudes en dejar una ⭐
 
